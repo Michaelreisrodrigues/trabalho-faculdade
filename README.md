@@ -22,24 +22,16 @@ Rickson de Souza Ferreira
 
 
 Plataforma de Publicações
+Foram utilizadas as linguagens de marcação HTML e CSS, além da linguagem de programação JavaScript.
 
-Foram utilizados linguagens de marcacão
-HTML e CSS
-linguagem utilizada JavaScript
+Instruções de Execução:
+Abra seu navegador de preferência, como Google Chrome ou Microsoft Edge.
+Digite o link do site na barra de pesquisa e pressione Enter.
+Descrição do Projeto
+Este é um programa básico para publicações de livros, desenvolvido como um MVP (Produto Mínimo Viável) voltado para a Unifeso.
 
-Instruções de executagem: Inicar seu navegador de preferencia, como chorme, Microsoft Edge,etc. E linkar na barra de pesquisa o link do site.
+Objetivo
+Criar uma plataforma simples e intuitiva que permita aos alunos compartilharem livros autorais e escritos próprios. Além disso, possibilita o acesso a obras de outros alunos e autores conhecidos.
 
-
-Programa básico, para publicações de livros.
-
-
-MVP relacionado a publicações de livros para a unifeso.
-
-
-Objetivos simples e claro, referente aos alunos poderem compartilhar livros autorais e escritos
-uma plataforma de publicações fácil e rapido para se utilizar, podendo acessar livros de outros alunos e autores conhecidos.
-
-
-
-
-público alvo: Alunos e professores Unifeso.
+Público-alvo
+Alunos e professores da Unifeso.
